@@ -1,0 +1,51 @@
+.wrapper {
+    background-color: lightblue;
+}
+
+.borders {
+    background-color: coral;
+    margin: 40px;
+}
+
+#border1 {
+    border-style: solid;
+    width: 20%;
+}
+
+#border2 {
+    border-style: dotted double dashed double;
+}
+
+#border3 {
+    border-style: 10px groove black;
+}
+
+.fonts {
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 150px;
+}
+
+#font1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.backgrounds {
+    background-image: linear-gradient(red, green);
+    color: white;
+    height: 200px;
+}
+
+#background1 {
+    background-color: purple;
+    width: 50%;
+}
+
+#background2 {
+    text-align: center;
+    width: 10%;
+    background-color: yellow;
+    color: black;
+    padding: 40px;
+}
